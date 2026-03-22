@@ -6,7 +6,7 @@
 💻 Working with Java, Python, and game engines  </br> 
 🎮 Exploring Unreal Engine and Godot  </br> 
 
-Portfolio: https://Ocean220823.github.io/portfolio/
+Portfolio: https://ocean220823.github.io/Portfolio/
 
 
 ## 🌐 Socials:
